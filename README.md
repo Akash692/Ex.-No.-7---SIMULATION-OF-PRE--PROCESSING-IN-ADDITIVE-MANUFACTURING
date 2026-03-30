@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 11.03.2026
+### DATE: 21.03.2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -47,8 +47,8 @@
 <img width="1553" height="834" alt="Screenshot 2026-03-11 110718" src="https://github.com/user-attachments/assets/d1a7957e-3048-4e17-8f03-9619fde6902e" />
 
 
-### Name: PRANAV S 
-### Register Number: 212224040242
+### Name:S.T.DHANAAAKHAASH
+### Register Number: 212224240032
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
